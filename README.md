@@ -1,5 +1,7 @@
 <div id="header" align="center">
+  <a href="#">
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="200"/>
+    </a>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9-aa1915251/">
