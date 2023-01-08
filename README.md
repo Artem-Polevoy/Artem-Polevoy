@@ -18,11 +18,11 @@ hey there
 
 ### :man_technologist: About Me :
 
-- :telescope: Exploring Technical Content Writing.
+- :telescope: Exploring Technical Content Writing
 
 - :seedling: This page contains my educational projects
 
-- :zap: In my free time, I solve problems on codewars and read tech articles.
+- :zap: In my free time, I solve problems on Codewars and read tech articles
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Artem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9-aa1915251/)
 
@@ -43,4 +43,7 @@ hey there
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Artem-Polevoy&theme=great-gatsby&border_radius=20&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Polevoy&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Polevoy&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![codewars](https://www.codewars.com/users/Artem-Polevoy/badges/small)](https://www.codewars.com/users/Artem-Polevoy)<br>
+
+
