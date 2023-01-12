@@ -9,7 +9,7 @@
   </a>
 </div>
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-Artem-Polevoy&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Artem-Polevoy&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
 hey there
@@ -43,7 +43,6 @@ hey there
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Artem-Polevoy&theme=great-gatsby&border_radius=20&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Polevoy&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![codewars](https://www.codewars.com/users/Artem-Polevoy/badges/small)](https://www.codewars.com/users/Artem-Polevoy)<br>
 
 
